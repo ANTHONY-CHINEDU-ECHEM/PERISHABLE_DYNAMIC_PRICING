@@ -1,0 +1,32 @@
+{
+  "bakery": {
+    "elasticity_coef": -1.799,
+    "expiry_urgency_coef": 0.082,
+    "intercept": 3.222,
+    "r2": 0.7402
+  },
+  "dairy": {
+    "elasticity_coef": -1.395,
+    "expiry_urgency_coef": 0.083,
+    "intercept": 3.688,
+    "r2": 0.6326
+  },
+  "deli_meat": {
+    "elasticity_coef": -1.606,
+    "expiry_urgency_coef": 0.086,
+    "intercept": 2.984,
+    "r2": 0.6934
+  },
+  "prepared_meals": {
+    "elasticity_coef": -2.598,
+    "expiry_urgency_coef": 0.084,
+    "intercept": 2.706,
+    "r2": 0.8369
+  },
+  "produce": {
+    "elasticity_coef": -2.203,
+    "expiry_urgency_coef": 0.076,
+    "intercept": 4.102,
+    "r2": 0.8015
+  }
+}

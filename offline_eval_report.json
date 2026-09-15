@@ -1,0 +1,19 @@
+{
+  "n_episodes": 400,
+  "summary": {
+    "rl": {
+      "mean_margin": 593.14,
+      "mean_waste_cost": 7.1,
+      "mean_price_changes": 2.69
+    },
+    "static": {
+      "mean_margin": 668.44,
+      "mean_waste_cost": 131.58,
+      "mean_price_changes": 1.62
+    }
+  },
+  "waste_reduction_pct_vs_static": 94.6,
+  "margin_change_pct_vs_static": -11.27,
+  "meets_18pct_waste_target": true,
+  "margin_neutral_or_positive": false
+}
